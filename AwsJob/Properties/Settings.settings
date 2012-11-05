@@ -1,0 +1,20 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AwsJob.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Vaults" Type="AwsJob.FolderVaultMappingCollection" Scope="User">
+      <Value Profile="(Default)">                    &lt;ArrayOfFolderVaultMapping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+                        &lt;FolderVaultMapping&gt;
+                            &lt;LocalFolder&gt;C:\Users\Public\Pictures&lt;/LocalFolder&gt;
+                            &lt;VaultName&gt;Pictures&lt;/VaultName&gt;
+                            &lt;Region&gt;United_States_West_Oregon&lt;/Region&gt;
+                            &lt;EmailTopicARN /&gt;
+                            &lt;NotificationTopicARN /&gt;
+                            &lt;NotificationQueueURL /&gt;
+                            &lt;AccessKey /&gt;
+                            &lt;SecretKey /&gt;
+                        &lt;/FolderVaultMapping&gt;
+                    &lt;/ArrayOfFolderVaultMapping&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
